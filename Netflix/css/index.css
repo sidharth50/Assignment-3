@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.hq{
+    font-family: bebas;
+    color: red;
+    
+}
+.btq{
+    border-radius: 5px;
+    position: relative;
+    left: 5px;
+}
+.btq1{
+    border-radius: 5px;
+    border: none;
+    background-color: red;
+}
+.fnt{
+    font-family: poppins;
+}
+.sec1{
+    height: 100vh;
+    background-image:linear-gradient(transparent,rgb(0, 0, 0)),url(../images/netflix-bg-image.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+.bt1{
+    border-radius: 2px;
+}
+.inp1{
+    padding-right: 300px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 8px;
+    margin-right: 60px;
+}
+.inp2{
+    padding: 16px 35px;
+    position: relative;
+    right: 64px;
+    top: 3px;
+    border: none;
+    background-color: red;
+}
+.hq1{
+    font-size:60px;
+}
+.hr1{
+    height: 8px;
+    background: grey;
+}
+.img2{
+    width: 480px;
+    height: 320px; 
+    margin-left: 10vh;
+    position: relative;
+    bottom: 35vh;   
+}
+.div2{
+    margin-left: 30vh;
+    margin-top: 15vh;
+}
+.img3{
+    width: 480px;
+    height: 320px; 
+    margin-left: 20vh;   
+}
+.div3{
+    margin-right: 35vh; 
+    margin-top: 15vh;
+}
+.vid1{
+    position: relative;
+    top: 10vh;
+    margin-left: 20vh;  
+}
+.sec2{
+    height: 55vh;
+}
+.h41{
+    width: 70vh;
+}
+.vid2{
+    position: relative;
+    top:12vh;
+    margin-left: 24vh;
+}
+.img4{
+    width: 480px;
+    height: 320px; 
+    margin-left: 15vh;
+    position: relative;
+    bottom: 20vh; 
+}
+.bt4{
+    background-color: rgba(65, 65, 65, 0.782);
+    margin-left: 60vh;
+    padding-left: 3vh;
+    padding-right: 80vh;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+.bt5{
+    background-color: rgba(65, 65, 65, 0.782);
+    margin-left: 60vh;
+    padding-left: 3vh;
+    padding-right: 56vh;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+.bt6{
+    
+    background-color: rgba(65, 65, 65, 0.782);
+    margin-left: 60vh;
+    padding-left: 3vh;
+    padding-right: 445px;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+.bt7{
+    background-color: rgba(65, 65, 65, 0.782);
+    margin-left: 60vh;
+    padding-left: 3vh;
+    padding-right: 470px;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+.bt8{
+    background-color: rgba(65, 65, 65, 0.782);
+    margin-left: 60vh;
+    padding-left: 3vh;
+    padding-right: 395px;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+.div4{
+    margin-left: 10vh;
+    margin-bottom: 10vh;
+}
+.div5{
+    width: 50%;
+    margin-left: 50vh;
+}
+.p5{
+    position: relative;
+    padding-right: 20vh;
+}
+.p6{
+    position: relative;
+    padding-right: 10vh;
+}
+.p7{
+    margin-right:65vh;
+}
+.btq3{
+    
+    border-radius: 2px;
+    margin-left: 50vh;
+}    
+.p9{
+    margin-left: 50vh;
+}
